@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Diego Raul Hernandez Cardeña 👋
 
 ## About Me
 - Currently studying at La Salle University Oaxaca.
